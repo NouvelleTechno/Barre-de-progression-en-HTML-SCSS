@@ -1,0 +1,43 @@
+.progress{
+    background-color: lightgrey;
+    .value{
+        background-color: blue;
+        padding: 5px;
+        text-align: center;
+        color: white;
+        // &.v-25{
+        //     width: 25%;
+        // }
+        // &.v-45{
+        //     width: 45%;
+        // }
+
+        @for $value from 0 through 100 {
+            &.v-#{$value}{
+                width: $value * 1%;
+            }
+        }
+
+        &.striped{
+            background-image: linear-gradient(45deg, rgba(255,255,255, 0.4) 25%, transparent 25%, transparent 50%, rgba(255,255,255, 0.4) 50%, rgba(255,255,255, 0.4) 75%, transparent 75%, transparent);
+            background-size: 1rem 1rem;
+        }
+
+        &.animate{
+            @for $speed from 1 through 20 {
+                &.s-#{$speed}{
+                    animation: anim $speed+s infinite linear;
+                }
+            }
+        }
+    }
+}
+
+@keyframes anim{
+    from{
+        background-position: 0;
+    }
+    to{
+        background-position: -100%;
+    }
+}

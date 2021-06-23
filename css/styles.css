@@ -1,0 +1,538 @@
+.progress {
+  background-color: lightgrey;
+}
+
+.progress .value {
+  background-color: blue;
+  padding: 5px;
+  text-align: center;
+  color: white;
+}
+
+.progress .value.v-0 {
+  width: 0%;
+}
+
+.progress .value.v-1 {
+  width: 1%;
+}
+
+.progress .value.v-2 {
+  width: 2%;
+}
+
+.progress .value.v-3 {
+  width: 3%;
+}
+
+.progress .value.v-4 {
+  width: 4%;
+}
+
+.progress .value.v-5 {
+  width: 5%;
+}
+
+.progress .value.v-6 {
+  width: 6%;
+}
+
+.progress .value.v-7 {
+  width: 7%;
+}
+
+.progress .value.v-8 {
+  width: 8%;
+}
+
+.progress .value.v-9 {
+  width: 9%;
+}
+
+.progress .value.v-10 {
+  width: 10%;
+}
+
+.progress .value.v-11 {
+  width: 11%;
+}
+
+.progress .value.v-12 {
+  width: 12%;
+}
+
+.progress .value.v-13 {
+  width: 13%;
+}
+
+.progress .value.v-14 {
+  width: 14%;
+}
+
+.progress .value.v-15 {
+  width: 15%;
+}
+
+.progress .value.v-16 {
+  width: 16%;
+}
+
+.progress .value.v-17 {
+  width: 17%;
+}
+
+.progress .value.v-18 {
+  width: 18%;
+}
+
+.progress .value.v-19 {
+  width: 19%;
+}
+
+.progress .value.v-20 {
+  width: 20%;
+}
+
+.progress .value.v-21 {
+  width: 21%;
+}
+
+.progress .value.v-22 {
+  width: 22%;
+}
+
+.progress .value.v-23 {
+  width: 23%;
+}
+
+.progress .value.v-24 {
+  width: 24%;
+}
+
+.progress .value.v-25 {
+  width: 25%;
+}
+
+.progress .value.v-26 {
+  width: 26%;
+}
+
+.progress .value.v-27 {
+  width: 27%;
+}
+
+.progress .value.v-28 {
+  width: 28%;
+}
+
+.progress .value.v-29 {
+  width: 29%;
+}
+
+.progress .value.v-30 {
+  width: 30%;
+}
+
+.progress .value.v-31 {
+  width: 31%;
+}
+
+.progress .value.v-32 {
+  width: 32%;
+}
+
+.progress .value.v-33 {
+  width: 33%;
+}
+
+.progress .value.v-34 {
+  width: 34%;
+}
+
+.progress .value.v-35 {
+  width: 35%;
+}
+
+.progress .value.v-36 {
+  width: 36%;
+}
+
+.progress .value.v-37 {
+  width: 37%;
+}
+
+.progress .value.v-38 {
+  width: 38%;
+}
+
+.progress .value.v-39 {
+  width: 39%;
+}
+
+.progress .value.v-40 {
+  width: 40%;
+}
+
+.progress .value.v-41 {
+  width: 41%;
+}
+
+.progress .value.v-42 {
+  width: 42%;
+}
+
+.progress .value.v-43 {
+  width: 43%;
+}
+
+.progress .value.v-44 {
+  width: 44%;
+}
+
+.progress .value.v-45 {
+  width: 45%;
+}
+
+.progress .value.v-46 {
+  width: 46%;
+}
+
+.progress .value.v-47 {
+  width: 47%;
+}
+
+.progress .value.v-48 {
+  width: 48%;
+}
+
+.progress .value.v-49 {
+  width: 49%;
+}
+
+.progress .value.v-50 {
+  width: 50%;
+}
+
+.progress .value.v-51 {
+  width: 51%;
+}
+
+.progress .value.v-52 {
+  width: 52%;
+}
+
+.progress .value.v-53 {
+  width: 53%;
+}
+
+.progress .value.v-54 {
+  width: 54%;
+}
+
+.progress .value.v-55 {
+  width: 55%;
+}
+
+.progress .value.v-56 {
+  width: 56%;
+}
+
+.progress .value.v-57 {
+  width: 57%;
+}
+
+.progress .value.v-58 {
+  width: 58%;
+}
+
+.progress .value.v-59 {
+  width: 59%;
+}
+
+.progress .value.v-60 {
+  width: 60%;
+}
+
+.progress .value.v-61 {
+  width: 61%;
+}
+
+.progress .value.v-62 {
+  width: 62%;
+}
+
+.progress .value.v-63 {
+  width: 63%;
+}
+
+.progress .value.v-64 {
+  width: 64%;
+}
+
+.progress .value.v-65 {
+  width: 65%;
+}
+
+.progress .value.v-66 {
+  width: 66%;
+}
+
+.progress .value.v-67 {
+  width: 67%;
+}
+
+.progress .value.v-68 {
+  width: 68%;
+}
+
+.progress .value.v-69 {
+  width: 69%;
+}
+
+.progress .value.v-70 {
+  width: 70%;
+}
+
+.progress .value.v-71 {
+  width: 71%;
+}
+
+.progress .value.v-72 {
+  width: 72%;
+}
+
+.progress .value.v-73 {
+  width: 73%;
+}
+
+.progress .value.v-74 {
+  width: 74%;
+}
+
+.progress .value.v-75 {
+  width: 75%;
+}
+
+.progress .value.v-76 {
+  width: 76%;
+}
+
+.progress .value.v-77 {
+  width: 77%;
+}
+
+.progress .value.v-78 {
+  width: 78%;
+}
+
+.progress .value.v-79 {
+  width: 79%;
+}
+
+.progress .value.v-80 {
+  width: 80%;
+}
+
+.progress .value.v-81 {
+  width: 81%;
+}
+
+.progress .value.v-82 {
+  width: 82%;
+}
+
+.progress .value.v-83 {
+  width: 83%;
+}
+
+.progress .value.v-84 {
+  width: 84%;
+}
+
+.progress .value.v-85 {
+  width: 85%;
+}
+
+.progress .value.v-86 {
+  width: 86%;
+}
+
+.progress .value.v-87 {
+  width: 87%;
+}
+
+.progress .value.v-88 {
+  width: 88%;
+}
+
+.progress .value.v-89 {
+  width: 89%;
+}
+
+.progress .value.v-90 {
+  width: 90%;
+}
+
+.progress .value.v-91 {
+  width: 91%;
+}
+
+.progress .value.v-92 {
+  width: 92%;
+}
+
+.progress .value.v-93 {
+  width: 93%;
+}
+
+.progress .value.v-94 {
+  width: 94%;
+}
+
+.progress .value.v-95 {
+  width: 95%;
+}
+
+.progress .value.v-96 {
+  width: 96%;
+}
+
+.progress .value.v-97 {
+  width: 97%;
+}
+
+.progress .value.v-98 {
+  width: 98%;
+}
+
+.progress .value.v-99 {
+  width: 99%;
+}
+
+.progress .value.v-100 {
+  width: 100%;
+}
+
+.progress .value.striped {
+  background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.4) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.4) 50%, rgba(255, 255, 255, 0.4) 75%, transparent 75%, transparent);
+  background-size: 1rem 1rem;
+}
+
+.progress .value.animate.s-1 {
+  -webkit-animation: anim 1s infinite linear;
+          animation: anim 1s infinite linear;
+}
+
+.progress .value.animate.s-2 {
+  -webkit-animation: anim 2s infinite linear;
+          animation: anim 2s infinite linear;
+}
+
+.progress .value.animate.s-3 {
+  -webkit-animation: anim 3s infinite linear;
+          animation: anim 3s infinite linear;
+}
+
+.progress .value.animate.s-4 {
+  -webkit-animation: anim 4s infinite linear;
+          animation: anim 4s infinite linear;
+}
+
+.progress .value.animate.s-5 {
+  -webkit-animation: anim 5s infinite linear;
+          animation: anim 5s infinite linear;
+}
+
+.progress .value.animate.s-6 {
+  -webkit-animation: anim 6s infinite linear;
+          animation: anim 6s infinite linear;
+}
+
+.progress .value.animate.s-7 {
+  -webkit-animation: anim 7s infinite linear;
+          animation: anim 7s infinite linear;
+}
+
+.progress .value.animate.s-8 {
+  -webkit-animation: anim 8s infinite linear;
+          animation: anim 8s infinite linear;
+}
+
+.progress .value.animate.s-9 {
+  -webkit-animation: anim 9s infinite linear;
+          animation: anim 9s infinite linear;
+}
+
+.progress .value.animate.s-10 {
+  -webkit-animation: anim 10s infinite linear;
+          animation: anim 10s infinite linear;
+}
+
+.progress .value.animate.s-11 {
+  -webkit-animation: anim 11s infinite linear;
+          animation: anim 11s infinite linear;
+}
+
+.progress .value.animate.s-12 {
+  -webkit-animation: anim 12s infinite linear;
+          animation: anim 12s infinite linear;
+}
+
+.progress .value.animate.s-13 {
+  -webkit-animation: anim 13s infinite linear;
+          animation: anim 13s infinite linear;
+}
+
+.progress .value.animate.s-14 {
+  -webkit-animation: anim 14s infinite linear;
+          animation: anim 14s infinite linear;
+}
+
+.progress .value.animate.s-15 {
+  -webkit-animation: anim 15s infinite linear;
+          animation: anim 15s infinite linear;
+}
+
+.progress .value.animate.s-16 {
+  -webkit-animation: anim 16s infinite linear;
+          animation: anim 16s infinite linear;
+}
+
+.progress .value.animate.s-17 {
+  -webkit-animation: anim 17s infinite linear;
+          animation: anim 17s infinite linear;
+}
+
+.progress .value.animate.s-18 {
+  -webkit-animation: anim 18s infinite linear;
+          animation: anim 18s infinite linear;
+}
+
+.progress .value.animate.s-19 {
+  -webkit-animation: anim 19s infinite linear;
+          animation: anim 19s infinite linear;
+}
+
+.progress .value.animate.s-20 {
+  -webkit-animation: anim 20s infinite linear;
+          animation: anim 20s infinite linear;
+}
+
+@-webkit-keyframes anim {
+  from {
+    background-position: 0;
+  }
+  to {
+    background-position: -100%;
+  }
+}
+
+@keyframes anim {
+  from {
+    background-position: 0;
+  }
+  to {
+    background-position: -100%;
+  }
+}
+/*# sourceMappingURL=styles.css.map */
